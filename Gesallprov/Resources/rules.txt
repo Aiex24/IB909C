@@ -1,0 +1,10 @@
+Detta spel bygger på spelet "Mastermind"- Målet är att gissa kombinationen som gömmer sig under locket.
+Varje färg kan förekomma flera gpnger. 
+
+Vit cirkel - Rätt färg och rätt plats
+Varje vit cirkel indikerar att man gissat rätt på både färg och position
+
+Svart cirkel - Rätt färg och fel plats
+Varje svart cirkel anger att man gissat rätt färg men är placeringen är fel
+
+Försök hitta rätt kombination på så få drag som möjligt

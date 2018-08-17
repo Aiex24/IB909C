@@ -1,0 +1,1 @@
+Detta spel är baserat på Mastermind som är ett brädspel som uppfanns av Mordecai Meirowitz 1970. I stora drag går spelet ut på att gissa rätt färgkombination. Efter varje gissning får man återkoppling som berättar om hur många rätt man fick.

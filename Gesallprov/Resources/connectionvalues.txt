@@ -1,0 +1,5 @@
+Servername:localhost
+Username:root
+password:
+Database:kalleanka
+Table:highscore

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>2-2-1</title>
+	<meta charset="UTF-8">
+</head>
+<body>
+
+<h1>2.2.1 Information sänd via formulär</h1>
+
+<form method="get" action="2-2-1.php">
+	<input type="text" name="hidden" value="I am hidden!" hidden>
+	<input type="text" name="text_box" value="ABC">
+	<br>
+	<br>
+	<textarea name="text_area" rows="10" cols="8">DEF</textarea>
+	<br>
+	<br>
+	<input type="checkbox" name="check_box" value="ON" checked>
+	<br>
+	<br>
+	<input type="radio" name="radio_button" value="v1" checked="checked">
+	<input type="radio" name="radio_button" value="v2"><br>
+	<br>
+	<select name="drop_down_menu">
+		<option value="Värde1"  selected="selected">Värde1</option>
+		<option value="Värde2" >Värde2</option>
+	</select>
+	<br>
+	<br>
+	<input name="image" type="image" src="example.jpg" alt="Submit" />
+	<br>
+	<br>
+	<input type="submit" name="push_button" value="Tryck mig">
+	</form>
+</body>
+</html>
